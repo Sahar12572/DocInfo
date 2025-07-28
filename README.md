@@ -55,12 +55,12 @@ This Java console application collects personal details from the user and determ
 
 1. **Compile the code**  
    Open terminal/CMD and run:
-   ```bash
+```
 javac Main.java
 ```
 
 3. **Run the program**
-```bash
+```
 java Main
 ```
 
